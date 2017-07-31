@@ -26,7 +26,5 @@ I implemented this by using existing C libraries and system calls.
 ### Screenshots
 (updating ...)
 
-### License
-````
+## License
 Copyright [2017] [Dan Choe](https://github.com/dan-choe)
-````
