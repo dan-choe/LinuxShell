@@ -4,9 +4,6 @@
 This program is made same as **a shell** in low-level Unix/POSIX system.
 I implemented this by using existing C libraries and system calls.
 
-### How to use
-(updating ...)
-
 ### Sample of command lines
 **Execution**
 * ls  
@@ -30,5 +27,6 @@ I implemented this by using existing C libraries and system calls.
 (updating ...)
 
 ### License
-
- Copyright [2017] [Dan Choe](https://github.com/dan-choe)
+````
+Copyright [2017] [Dan Choe](https://github.com/dan-choe)
+````
