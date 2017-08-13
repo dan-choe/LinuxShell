@@ -11,7 +11,7 @@ I implemented this by using existing C libraries and system calls.
 ![screenshot2](https://github.com/dan-choe/LinuxShell/blob/master/screenshot2.png "LinuxShell 2")
 
 
-### Sample of command lines
+### Sample of some command lines. This shell covers more programs.
 **Execution**
 * ls
 * cd
