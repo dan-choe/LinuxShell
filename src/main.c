@@ -1,5 +1,5 @@
-#include "sfish.h"
-#include "debug.h"
+#include "../include/sfish.h"
+#include "../include/debug.h"
 #include <unistd.h>
 #include <signal.h>
 /*
